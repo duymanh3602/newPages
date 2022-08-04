@@ -1,0 +1,18 @@
+{"data" : [
+    {"tag" : "greetings",
+    "patterns" : ["hello", "hi"],
+    "response" : "Hello! What's up?"
+    }, 
+    {"tag" : "name",
+        "patterns" : ["name", "name?"],
+        "response" : "I'm a AI ChatBot made by Đinh Duy Mạnh <3"
+    }, 
+    {"tag" : "age",
+        "patterns" : ["how old", "age"],
+        "response" : ["My owner Duy Manh is 20 years old", "20 y/o!"]
+    }, 
+    {"tag" : "error",
+        "patterns" : [],
+        "response" : "Sorry, I can't understand you!"
+    }
+]}
